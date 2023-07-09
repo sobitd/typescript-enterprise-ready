@@ -1,0 +1,6 @@
+{
+    "include": [
+      "src/**/*",    
+      "jest-setup.ts" 
+    ]
+  }
